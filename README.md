@@ -72,4 +72,4 @@ git push origin submission/M11234567-王小明
 
 ---
 
-詳細 Git 概念說明與常見錯誤，請參閱 **[Git 工作流程說明](git-guide.html)**。
+詳細 Git 概念說明與常見錯誤，請參閱 **[繳交作業流程說明](git-guide.html)**。

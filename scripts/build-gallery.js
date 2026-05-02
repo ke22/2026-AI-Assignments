@@ -93,7 +93,7 @@ const html = `<!DOCTYPE html>
       </div>
     </div>
     <nav>
-      <a href="git-guide.html">Git 工作流程說明</a>
+      <a href="git-guide.html">繳交作業流程說明</a>
     </nav>
   </header>
   <main>
